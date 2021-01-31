@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vital-platform-303420",
+  "private_key_id": "29489015e433c29cb4c2f100885fbab57bfe9030",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCX3VjqgRcTyJGF\nICP0ncrCkr7x1uANw8MlJ2d+aGVB6JCznd8ersSJBWZTT6zHa14t/RpBaGEBXLv7\nFrsMAzbkwNUzvuYxtM9PPcu/3qDT0bbsDs9X2br9yvfwaBBG11fOKpmvY6aNDhKR\nGcwTRSmG2AlhfG/gPoi1e7LLgUFePIl/F9w46J8Yje9iczXBpi2BGLQxLZL+mNwj\nuqayQTHMUQc0gocFgYf9e24zzFWAbbkHVBjyjzIs45iXUqo4oj9l4dLTpUNMCZaj\nULu5yTcGTgoJ3s93s2x8YUYYL1zeBWEyYUNOwaiaKkpP6XCXFDTnwOcNxU2WmlyD\nLxL4ybxBAgMBAAECggEAHWYVQ3hwDj1ipmHddApj6RzdaBXP0/pUucmSCG+PQp4R\n/SOPwPHWTCxGbdRbv1MyrTZ1MbpSJSBdp7LzzNSGeOw3mcfX6kF1bIKrAd7IRZkw\njywiyX/16hGzw89xbzVa4yduDvz8jgvuXjafQg++hUMnNb8QLVoNvwxORYUlMWe8\nWL8EHSvG+nAskNOuvgzndrEClzhGTpeSIoDrqxN7XkxoaTiQkmalp0oDAZWPKmy7\nC72AYXnb0y75AYBxPIsu335vpMnldo2IzXFvvbYu6CLCNSEczlovCiFtiPJpk/z/\nHNZ98u6SxTkKz49g1hb6HzzlUElhRuzH7dRjUqHVfQKBgQDLtE7YKyju+XHdb289\nALAoiQhIX7wrNOEC/c1ouuWhw4Kc5nTwrTOBW7dydBEgnSREMY2M3vbNbYNo/9dM\niGyLDEBLB46NqCbHqrcwzexTCI5L5KvRDrMCDWZJLx2jJ1uIi3YJ3HtYMEKyIHM4\nudlJ2CjRYmqPThAZPl7D6wA2BwKBgQC+2hKrOczCqS+AZ4Tg2Rnn6691o+dWA4LD\n29TdB9HrKc1U3O9YLUKqHc6r/jD9zUZRvFw55DZSXUs8t9atZGmIoXBQLoblFxAU\nv16ovdu1MRGZOLmkz1M9NT3IyGG4naayS/a68Owaisx+m4g1iMSriSq/lfOfJHCz\nNGwztkqpdwKBgQCGT1VpDFQJ9SiRcybqFukPYQK4DX9ZEZ2GxmdINWqw1OLqprzV\n7601Do8PBN5CHbpKyE1nY59g5WMuuPlw+cZvi91cWxgv6H3hSntMz4mRWePQwG5V\nAhcfNEyL1mf5Kjsc9a8XY2tkQzXGksTF0ywkl0SaggR2hmbw7gG3tdvGwwKBgBA8\nLtBgB1ob2E2dAMG71idTdkaUnc5EWDBfF/mBe8r8cFoivT2MBBrClF0vL223s56q\nXlISZsiU5RySKvHvE8cqrIo1mwYL8zNAoEXMeM8uEGgvWiN5+4O+brYQzbdNuet6\n6M84RW1wlzrB8lFThB9veLJ5iBLmn6uu7vFrNWi7AoGACfIa55I53G/0Yc82VGa2\nL3ZFVpnvzPRP/AbbAVe0nKNTCj88mT91PYnkVUn4qGaCqfj1YfsQbo1b0hflihoi\nwLBhgCMUp2KwZFcjyIGRxBlHKm1gAnymG2i5l4XxbsLV5tDe2CK50atNY41YIGmp\ny0VnUCtUTh97kZp4puXfuYQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lrs-510@vital-platform-303420.iam.gserviceaccount.com",
+  "client_id": "114805638219936522865",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lrs-510%40vital-platform-303420.iam.gserviceaccount.com"
+}
