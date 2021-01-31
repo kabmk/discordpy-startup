@@ -6,11 +6,11 @@ import traceback
 
 bot = commands.Bot(command_prefix='^')
 token = os.environ['DISCORD_BOT_TOKEN']
-
+await ctx.send('1')
 scope = ['https://spreadsheets.google.com/feeds','https://www.googleapis.com/auth/drive']
-
+await ctx.send('2')
 credentials = ServiceAccountCredentials.from_json_keyfile_name('vital-platform-303420-29489015e433.json', scope)
-
+await ctx.send('3')
 gc = gspread.authorize(credentials)
 
 SPREADSHEET_KEY = '1CG2ek5j5XjbEGtWQQn2JCBaCxawD5J7DGyX33Mc4nKo'
