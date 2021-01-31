@@ -25,6 +25,11 @@ async def on_command_error(ctx, error):
 
 @bot.command()
 async def reg(ctx):
+    
+    await ctx.send('1')
+    SPREADSHEET_KEY = '1CG2ek5j5XjbEGtWQQn2JCBaCxawD5J7DGyX33Mc4nKo'
+    workbook = gc.open_by_key(SPREADSHEET_KEY)
+
     worksheet = gc.open_by_key(SPREADSHEET_KEY).worksheet("シート1")
     await ctx.send('tierを入力してください')
     if message.author != client.user:
